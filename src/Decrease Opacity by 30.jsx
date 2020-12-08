@@ -1,4 +1,3 @@
-
 app.activeDocument.activeLayer.opacity =
     Math.max(
         0,
