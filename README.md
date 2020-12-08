@@ -9,7 +9,7 @@ The script was found long time ago and recently I fill in the logic when there i
 #### What it does:
 - This script merges selected layers with the bottom layer's name being the resulting name.
 - When just one layer is selected, and upon merging down, the bottom layer's name will be used.
-- When merging a group, it uses the group name for merging.
+- When merging a group, it uses the group name for merge.
 
 ---
 
