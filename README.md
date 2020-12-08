@@ -1,5 +1,5 @@
 # 2020-12-09-photoshop-script
-Record useful script I use in photoshop
+Record useful scripts I use in photoshop.
 
 ### Merge Named By Bottom Layer.jsx
 <img src="https://github.com/machingclee/2020-12-09-photoshop-script/blob/main/imgs/img_01.jpg" width="400">
