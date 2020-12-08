@@ -11,3 +11,7 @@ The script was found long time ago and recently I fill in the logic when there i
 - When just one layer is selected, and upon merging down, the bottom layer's name will be used.
 - When merging a group, it uses the group name for merging.
 
+---
+
+### Decrease By 30 Opacity.jsx and Increase By 30 Opacity.jsx
+- As named.
