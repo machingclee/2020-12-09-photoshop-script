@@ -1,4 +1,10 @@
-﻿//created by David Jensen
+﻿// created by David Jensen
+/*
+Change log by ChingCLee
+- remedy the defect that the original script fails when there is no locked Background layer at the bottom, - when merging group of layers, original script choose the upmost layer in this group as a resulting name, I modify to choose group name as the resulting merged name.
+- when there is just one layer in selection, the funciton originally merge down and use the upper layer's name as the result, which I revert to using the lower layer's name.
+*/
+
 app.activeDocument.suspendHistory('Merge Layers', 'main()');
 function main() {
    var idxShift = 0;
