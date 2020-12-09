@@ -13,5 +13,5 @@ The script was found long time ago and recently I fill in the logic when there i
 
 ---
 
-### Decrease By 30 Opacity.jsx and Increase By 30 Opacity.jsx
+### Decrease Opacity By 30.jsx and Increase Opacity By 30.jsx
 - As named.
